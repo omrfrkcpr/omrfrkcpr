@@ -1,4 +1,4 @@
-## Hi there, I am Omer
+## Hi there, I am Ömer
 
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <br>
