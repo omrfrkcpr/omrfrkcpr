@@ -55,7 +55,6 @@
 
 ## My projects
 
-| Project Name        | Libraries and Technologies I use |            How does my project look               |<br>
 | Netflix_Survey_Form |             HTML-CSS             |(https://omrfrkcpr.github.io/Netflix_Survey_Form/) |<br>
 
 
