@@ -11,7 +11,7 @@
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap...</font>
 </br>
 
-#### :mailbox_with_mail: Connect with me:
+#### Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omrfrkcpr/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:omerrfarukcapur@gmail.com)
