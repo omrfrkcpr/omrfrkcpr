@@ -55,10 +55,13 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="40"/> </a>
 
-## My projects
 
-| Netflix_Survey_Form         |             HTML-CSS             | https://omrfrkcpr.github.io/Netflix_Survey_Form/ |<br>
-| Google_Chrismas_LandingPage |             HTML-CSS             | https://omrfrkcpr.github.io/Google_Chrismas_LandingPage/ |<br>
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look
+:-------------------------|-------------------------|-------------------------
+[Netflix Survey Form](https://omrfrkcpr.github.io/Netflix_Survey_Form/)| HTML5, CSS3 |C:\Users\Capur\Desktop\Netflix_Survey_Form\Project_001_.png
+[Paralax Website](https://cihanbagriyanik.github.io/Paralax_Website_html-css/)| HTML5, CSS3 |![paralax](https://github.com/cihanbagriyanik/Paralax_Website_html-css/assets/132518854/687fb7e0-12f5-47a8-b018-52d6d079d138)
+
 
 
 </div>
