@@ -59,7 +59,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[Parallax Page](https://omrfrkcpr.github.io/Simple_Login_Page/)| HTML5, CSS3 |![parallax](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/19641ddb-0a7a-4d7c-a1c5-20410a9d7712)
+[Parallax Page](https://omrfrkcpr.github.io/Parallax_Web_Page/)| HTML5, CSS3 |![parallax](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/19641ddb-0a7a-4d7c-a1c5-20410a9d7712)
 [Simple Login Page](https://omrfrkcpr.github.io/Simple_Login_Page/)| HTML5, CSS3 |![LoginPage](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/94fa4aa1-4ff3-4037-ae3e-db4b20854783)
 [Netflix Survey Form](https://omrfrkcpr.github.io/Netflix_Survey_Form/)| HTML5, CSS3 |![netflix](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/79f93e31-d84e-4a62-866d-9ab894fd3353)
 [Google Chrismas Landing Page](https://omrfrkcpr.github.io/Google_Chrismas_LandingPage/)| HTML5, CSS3 |![google](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/cdf46c47-544e-4c56-a039-289cd848bbf2)
