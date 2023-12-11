@@ -59,8 +59,9 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[Netflix Survey Form](https://omrfrkcpr.github.io/Netflix_Survey_Form/)| HTML5, CSS3 |![Project_001_](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/1ec6af19-823f-4879-89ff-9628da9d89e0)
-[Paralax Website](https://cihanbagriyanik.github.io/Paralax_Website_html-css/)| HTML5, CSS3 |![paralax](https://github.com/cihanbagriyanik/Paralax_Website_html-css/assets/132518854/687fb7e0-12f5-47a8-b018-52d6d079d138)
+[Netflix Survey Form](https://omrfrkcpr.github.io/Netflix_Survey_Form/)| HTML5, CSS3 |![netflix](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/79f93e31-d84e-4a62-866d-9ab894fd3353)
+[Google Chrismas Landing Page](https://omrfrkcpr.github.io/Google_Chrismas_LandingPage/)| HTML5, CSS3 |![google](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/cdf46c47-544e-4c56-a039-289cd848bbf2)
+
 
 
 
