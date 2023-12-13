@@ -59,6 +59,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
+[Home_Furnishing](https://omrfrkcpr.github.io/Home_Furnishing/)| HTML5, CSS3 |![ezgif-2-e2762feb33](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7c6b0661-1a41-444a-9983-9df89a853db4)
 [Parallax Page](https://omrfrkcpr.github.io/Parallax_Web_Page/)| HTML5, CSS3 |![ezgif-3-7919059715](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/2156c058-1e60-4d7a-945f-f69359c58cf3)
 [Simple Login Page](https://omrfrkcpr.github.io/Simple_Login_Page/)| HTML5, CSS3 |![LoginPage](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/94fa4aa1-4ff3-4037-ae3e-db4b20854783)
 [Netflix Survey Form](https://omrfrkcpr.github.io/Netflix_Survey_Form/)| HTML5, CSS3 |![netflix](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/79f93e31-d84e-4a62-866d-9ab894fd3353)
