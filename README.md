@@ -59,7 +59,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[Responsive Vote Page](https://omrfrkcpr.github.io/Best-Football-Players-2024/)| HTML5, CSS3, Bootstrap |![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a185050-5aa0-48ea-916b-b8abcc2e30bf)
+[Responsive Best Football Player Vote Page](https://omrfrkcpr.github.io/Best-Football-Players-2024/)| HTML5, CSS3, Bootstrap |![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a185050-5aa0-48ea-916b-b8abcc2e30bf)
 [Dental Clinic Page](https://omrfrkcpr.github.io/Dental_Clinic_Page/)| HTML5, CSS3, Bootstrap |![ezgif-3-529bd74e9d](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/74a85b7a-8974-453e-b553-dd8f6dd845c7)
 [Home Furnishing](https://omrfrkcpr.github.io/Home_Furnishing/)| HTML5, CSS3 |![ezgif-2-e2762feb33](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7c6b0661-1a41-444a-9983-9df89a853db4)
 [Parallax Page](https://omrfrkcpr.github.io/Parallax_Web_Page/)| HTML5, CSS3 |![ezgif-3-7919059715](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/2156c058-1e60-4d7a-945f-f69359c58cf3)
