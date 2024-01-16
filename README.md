@@ -57,6 +57,7 @@
 
 
 ## My projects
+Please click on the project name to see the projects live
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
 [Music4All Web Page](https://omrfrkcpr.github.io/Music_4_All/)| HTML5, CSS3, SASS, Responsive |![music4All-web-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/32e47aba-5514-4eb2-9a6d-666f8d3254c2)
