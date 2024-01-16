@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <br>
-<font color="pink"> :snowboarder: I'm Full Stack Developer</font>
+<font color="pink"> :snowboarder: I'm Full Stack Developer who decides to become a software developer at the end of his path to becoming a dentist</font>
 </br>
 <br>
 <font color="pink"> :fire: My developer career started in 2020, and it goes on...</font>
