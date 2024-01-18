@@ -8,8 +8,8 @@
 </br>
 <br>
 <font color="pink"> :fire: My interest in software development started in 2020. However, I have been active in this field since 2023.</font>
-</br>
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
+</br>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap...</font>
 </br>
