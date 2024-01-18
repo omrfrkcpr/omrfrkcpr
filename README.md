@@ -5,7 +5,7 @@
 <font color="pink"> 👨‍💻 I'm Full Stack Developer who decides to become a software developer at the end of his path to becoming a dentist</font>
 </br>
 <br>
-<font color="pink"> :fire: My developer career started in 2020, and it goes on...</font>
+<font color="pink"> :fire: My interest in software development started in 2020. However, I have been active in this field since 2023.</font>
 </br>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap...</font>
