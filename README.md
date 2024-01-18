@@ -1,4 +1,4 @@
-<img src="https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f0141dd6-d5e7-4a9b-9299-20611ccef1e7" alt="" align="center" border-radius=10px />
+<img src="https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f0141dd6-d5e7-4a9b-9299-20611ccef1e7" alt="" align="center"/>
 
 
 <h1 align="center"> Hi there, I am Ömer 👋 </h1>
