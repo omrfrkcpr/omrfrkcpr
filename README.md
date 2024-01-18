@@ -13,7 +13,6 @@
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS,React, Javascript, SASS, Bootstrap...</font>
 </br>
 <br></br>
-<br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="350"/>
 
 #### Connect with me:
