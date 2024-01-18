@@ -1,7 +1,7 @@
 ![Linkedin Background](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f0141dd6-d5e7-4a9b-9299-20611ccef1e7)
 
 
-<h1 align="center"> Hi there, I am Ömer </h1>
+<h1 align="center"> Hi there, I am Ömer 👋 </h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 <br>
