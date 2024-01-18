@@ -4,7 +4,7 @@
 <h1 align="center"> Hi there, I am Ömer 👋 </h1>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="380" margin-top= "50px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="380" margin-top=50px/>
 <br>
 <font color="pink"> 👨‍💻 I'm Full Stack Developer who decides to become a software developer at the end of his path to becoming a dentist</font>
 </br>
