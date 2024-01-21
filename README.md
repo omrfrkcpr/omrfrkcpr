@@ -1,5 +1,17 @@
 <img src="https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f0141dd6-d5e7-4a9b-9299-20611ccef1e7" alt="" align="center"/>
 
+```ruby
+class Omrfrkcpr {
+  constructor(name, age, location, occupation, languages) {
+    this.name = "Ömer_Faruk_CAPUR";
+    this.location = "Göttingen, Germany";
+    this.occupation = "Full_Stack_Developer";
+    this.mainAbilities = "HTML", "CSS", "JS", "REACT", "node.JS", "mongoDB", "Git/GitHub";
+  }
+}
+
+const me = new Omrfrkcpr()
+```
 
 <h1 align="center"> Hi there, I am Ömer 👋 </h1>
 
