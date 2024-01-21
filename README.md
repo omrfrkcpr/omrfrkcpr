@@ -4,7 +4,7 @@
 
 ```ruby
 class Omrfrkcpr {
-  constructor(name, age, location, occupation, languages) {
+  constructor(name, location, occupation, mainAbilities) {
     this.name = "Ömer_Faruk_CAPUR";
     this.location = "Göttingen, Germany";
     this.occupation = "Full_Stack_Developer";
