@@ -12,7 +12,9 @@ class Omrfrkcpr {
   }
 }
 ````
+```
 const me = new Omrfrkcpr()
+```
 ````
 ```
 
