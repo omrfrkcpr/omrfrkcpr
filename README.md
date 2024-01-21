@@ -11,8 +11,9 @@ class Omrfrkcpr {
     this.mainAbilities = "HTML", "CSS", "JS", "REACT", "node.JS", "mongoDB", "Git/GitHub";
   }
 }
-
+````
 const me = new Omrfrkcpr()
+````
 ```
 
 <h1 align="center"> Hi there, I am Ömer 👋 </h1>
