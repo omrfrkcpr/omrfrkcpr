@@ -8,7 +8,7 @@ class Omrfrkcpr {
     this.name = "Ömer_Faruk_CAPUR";
     this.location = "Göttingen, Germany";
     this.occupation = "Full_Stack_Developer";
-    this.mainAbilities = "HTML", "CSS", "JS", "REACT", "node.JS", "mongoDB", "Git/GitHub";
+    this.mainAbilities = "HTML5", "CSS3(Bootstrap/SASS)", "JS(ES6)", "REACT", "node.JS", "mongoDB", "Git/GitHub";
   }
 }
 const me = new Omrfrkcpr()
