@@ -78,6 +78,7 @@ const me = new Omrfrkcpr()
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
+[iOS Calculator](https://omrfrkcpr.github.io/iOS_Calculator/)| HTML5, CSS3, JavaScript |![ios](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/556a8aa1-fdd0-4d66-9d40-c530830c3a31)
 [Guessing Game](https://omrfrkcpr.github.io/Guessing_Game/)| HTML5, CSS3, JavaScript, Responsive |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/ef8235b9-c4a7-4f9e-b012-3a082f44c79d)
 [Music4All Web Page](https://omrfrkcpr.github.io/Music_4_All/)| HTML5, CSS3, SASS, Responsive |![music4All-web-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/32e47aba-5514-4eb2-9a6d-666f8d3254c2)
 [SASS Portfolio Page](https://omrfrkcpr.github.io/Sass_Portfolio_Page/)| HTML5, CSS3, SASS, Responsive |![sass-portfolio-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/21448833-13f2-494f-987b-f44c7f4d8d8c)
