@@ -78,7 +78,7 @@ const me = new Omrfrkcpr()
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[ToDo List](https://omrfrkcpr.github.io/ToDo_App/)| HTML5, CSS3, JavaScript |![todo-project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/1ba18600-f087-406f-973f-95ffc8e71634)
+[ToDo List](https://omrfrkcpr.github.io/ToDo_App/)| HTML5, CSS3, JavaScript, Local Storage |![todo-project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/1ba18600-f087-406f-973f-95ffc8e71634)
 [Rock Paper Scissors Game](https://omrfrkcpr.github.io/Rock_Paper_Scissors_Game/)| HTML5, CSS3, JavaScript |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f8129d59-0626-4b28-8e5d-e1111a050199)
 [iOS Calculator](https://omrfrkcpr.github.io/iOS_Calculator/)| HTML5, CSS3, JavaScript |![ios](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/b513cc50-714d-49f8-801f-344a164b1695)
 [Guessing Game](https://omrfrkcpr.github.io/Guessing_Game/)| HTML5, CSS3, JavaScript, Responsive |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/ef8235b9-c4a7-4f9e-b012-3a082f44c79d)
