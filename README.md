@@ -78,6 +78,7 @@ const me = new Omrfrkcpr()
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[GS-Store Checkout Page](https://gs-store-checkout-page.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![gs-store_checkout_page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/94f0fc21-eab4-4b9d-85cf-58db5e84e63e)|[Source Code](https://github.com/omrfrkcpr/GS-Store_Checkout_Page)
 [ToDo List](https://my-todo-list-page.netlify.app/)| HTML5, CSS3, JavaScript, Local Storage, Responsive |![todo-project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/1ba18600-f087-406f-973f-95ffc8e71634)|[Source Code](https://github.com/omrfrkcpr/ToDo_App)
 [Rock Paper Scissors Game](https://playgame-rock-paper-scissors.netlify.app/)| HTML5, CSS3, JavaScript |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f8129d59-0626-4b28-8e5d-e1111a050199)|[Source Code](https://github.com/omrfrkcpr/Rock_Paper_Scissors_Game)
 [iOS Calculator](https://app-ios-calculator.netlify.app/)| HTML5, CSS3, JavaScript |![ios](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/b513cc50-714d-49f8-801f-344a164b1695)|[Source Code](https://github.com/omrfrkcpr/iOS_Calculator)
