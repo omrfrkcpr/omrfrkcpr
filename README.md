@@ -78,6 +78,7 @@ const me = new Omrfrkcpr()
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[Weather App v1](https://city-weather-app-v1.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, API |![weather-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/fb7b4775-2751-474b-82a7-8e16706bb9dc)|[Source Code](https://github.com/omrfrkcpr/Weather_App)
 [Weather App v2](https://city-weather-app-v2.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, API |![weather_app_v2](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/967b14e7-24f4-4ec5-b381-1f082d161a96)|[Source Code](https://github.com/omrfrkcpr/Weather_App_v2)
 [Country App](https://search-world-country.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, API |![country_app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/fe3fb315-5710-4b37-9484-256c92d95447)|[Source Code](https://github.com/omrfrkcpr/Country_App)
 [Bey E-Commerce Website](https://bey-e-commerce.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/603f6426-9f31-4d15-a05d-53b8968f4d79)|[Source Code](https://github.com/omrfrkcpr/Bey_E-Commerce_Website)
