@@ -93,11 +93,6 @@ const me = new Omrfrkcpr()
 [Best Football Player Vote Page](https://best-football-player-vote-2024.netlify.app/)| HTML5, CSS3, Bootstrap, Responsive |![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a185050-5aa0-48ea-916b-b8abcc2e30bf)|[Source Code](https://github.com/omrfrkcpr/Best-Football-Players-2024)
 [Dental Clinic Page](https://dental-clinic-page.netlify.app/)| HTML5, CSS3, Bootstrap |![ezgif-3-529bd74e9d](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/74a85b7a-8974-453e-b553-dd8f6dd845c7)|[Source Code](https://github.com/omrfrkcpr/Dental_Clinic_Page)
 [Parallax Page](https://it-parallax-webpage.netlify.app/)| HTML5, CSS3 |![ezgif-3-7919059715](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/2156c058-1e60-4d7a-945f-f69359c58cf3)|[Source Code](https://github.com/omrfrkcpr/Parallax_Web_Page)
-[Simple Login Page](https://simple-login-section.netlify.app/)| HTML5, CSS3 |![LoginPage](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/94fa4aa1-4ff3-4037-ae3e-db4b20854783)|[Source Code](https://github.com/omrfrkcpr/Simple_Login_Page)
-[Netflix Survey Form](https://netflix-feedback-form.netlify.app/)| HTML5, CSS3 |![netflix](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/79f93e31-d84e-4a62-866d-9ab894fd3353)|[Source Code](https://github.com/omrfrkcpr/Netflix_Survey_Form)
-[Google Chrismas Landing Page](https://google-chrismas-landing-page.netlify.app/)| HTML5, CSS3 |![google](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/cdf46c47-544e-4c56-a039-289cd848bbf2)|[Source Code](https://github.com/omrfrkcpr/Google_Chrismas_LandingPage)
-
-
 
 
 </div>
