@@ -24,9 +24,7 @@ class Omrfrkcpr extends Component {
 
   message = () => {
     const { name, occupation, mainAbilities } = this.state;
-    return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(
-      ", "
-    )}.`;
+    return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(", ")}.`;
   };
 
   render() {
