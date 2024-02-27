@@ -3,12 +3,23 @@
 
 
 ```ruby
-class Omrfrkcpr {
-  constructor(name, location, occupation, mainAbilities) {
-    this.name = "Ömer_Faruk_CAPUR";
-    this.location = "Göttingen, Germany";
-    this.occupation = "Full_Stack_Developer";
-    this.mainAbilities = "HTML5", "CSS3(Bootstrap/SASS)", "JS(ES6)", "REACT", "node.JS", "mongoDB", "Git/GitHub";
+class Omrfrkcpr extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      name: "Ömer Faruk Çapur",
+      location: "Göttingen, Germany",
+      occupation: "Full Stack Developer",
+      mainAbilities: [
+        "HTML5",
+        "CSS3(Bootstrap/SASS)",
+        "JS(ES6)",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Git/GitHub"
+      ]
+    };
   }
 }
 const me = new Omrfrkcpr()
