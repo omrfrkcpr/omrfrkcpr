@@ -24,6 +24,28 @@ class Omrfrkcpr extends Component {
 }
 const me = new Omrfrkcpr();
 ```
+```javascript
+class Omrfrkcpr extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      name: "Ömer Faruk Çapur",
+      location: "Göttingen, Germany",
+      occupation: "Full Stack Developer",
+      mainAbilities: [
+        "HTML5",
+        "CSS3(Bootstrap/SASS)",
+        "JS(ES6)",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Git/GitHub"
+      ]
+    };
+  }
+}
+const me = new Omrfrkcpr();
+```
 
 
 
