@@ -1,30 +1,30 @@
 <img src="https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f0141dd6-d5e7-4a9b-9299-20611ccef1e7" alt="" align="center"/>
 <br></br>
 
-<p align="center">
-  ```javascript
-  class Omrfrkcpr extends Component {
-    constructor(props) {
-      super(props);
-      this.state = {
-        name: "Ömer Faruk Çapur",
-        location: "Göttingen, Germany",
-        occupation: "Full Stack Developer",
-        mainAbilities: [
-          "HTML5",
-          "CSS3(Bootstrap/SASS)",
-          "JS(ES6)",
-          "React",
-          "Node.js",
-          "MongoDB",
-          "Git/GitHub"
-        ]
-      };
-    }
-  }
-  const me = new Omrfrkcpr();
-  ```
-</p>
+
+                                                          ```javascript
+                                                          class Omrfrkcpr extends Component {
+                                                            constructor(props) {
+                                                              super(props);
+                                                              this.state = {
+                                                                name: "Ömer Faruk Çapur",
+                                                                location: "Göttingen, Germany",
+                                                                occupation: "Full Stack Developer",
+                                                                mainAbilities: [
+                                                                  "HTML5",
+                                                                  "CSS3(Bootstrap/SASS)",
+                                                                  "JS(ES6)",
+                                                                  "React",
+                                                                  "Node.js",
+                                                                  "MongoDB",
+                                                                  "Git/GitHub"
+                                                                ]
+                                                              };
+                                                            }
+                                                          }
+                                                          const me = new Omrfrkcpr();
+                                                          ```
+
 
 
 <h1 align="center"> Hi there, I am Ömer 👋 </h1>
