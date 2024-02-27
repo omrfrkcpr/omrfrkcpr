@@ -18,7 +18,7 @@ class Omrfrkcpr extends Component {
         "Node.js",
         "MongoDB",
         "Git/GitHub/GitLab"
-      ]
+      ],
       message: () => {
         const { name, occupation, mainAbilities } = this.state;
         return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(', ')}.`;
