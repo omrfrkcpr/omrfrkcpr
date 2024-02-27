@@ -2,7 +2,7 @@
 <br></br>
 
 
-```ruby
+```javascript
 class Omrfrkcpr extends Component {
   constructor(props) {
     super(props);
@@ -22,7 +22,7 @@ class Omrfrkcpr extends Component {
     };
   }
 }
-const me = new Omrfrkcpr()
+const me = new Omrfrkcpr();
 ```
 
 
