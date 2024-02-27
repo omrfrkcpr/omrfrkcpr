@@ -6,7 +6,7 @@
 class Omrfrkcpr extends Component {
   constructor(props) {
     super(props);
-    this.state = {
+    const { name, location, occupation, mainAbilities } = this.state = {
       name: "Ömer Faruk Çapur",
       location: "Göttingen, Germany",
       occupation: "Full Stack Developer",
@@ -17,8 +17,12 @@ class Omrfrkcpr extends Component {
         "React",
         "Node.js",
         "MongoDB",
-        "Git/GitHub"
+        "Git/GitHub/GitLab"
       ]
+      message: () => {
+        const { name, occupation, mainAbilities } = this.state;
+        return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(', ')}.`;
+      }
     };
   }
 }
