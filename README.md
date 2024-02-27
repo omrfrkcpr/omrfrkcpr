@@ -17,17 +17,22 @@ class Omrfrkcpr extends Component {
         "React",
         "Node.js",
         "MongoDB",
-        "Git/GitHub/GitLab"
+        "Git/GitHub/GitLab",
       ],
     };
   }
 
   message = () => {
     const { name, occupation, mainAbilities } = this.state;
-    return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(', ')}.`;
+    return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(
+      ", "
+    )}.`;
+  };
+
+  render() {
+    return <div>{this.message()}</div>;
   }
 }
-const me = new Omrfrkcpr();
 ```
 
 
