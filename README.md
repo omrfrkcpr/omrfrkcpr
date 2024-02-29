@@ -97,6 +97,7 @@ class Omrfrkcpr extends Component {
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[Footboll Legends](https://all-time-footboll-legends.netlify.app/)| ReactJS, JSX, React-Bootstrap, Responsive |![footboll-legends](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/b8f1715c-0bf3-445c-97ac-a92a05afddbf)|[Source Code](https://github.com/omrfrkcpr/Football_Legends)
 [Horoscope Page](https://webpage-horoscope.netlify.app/)| ReactJS, JSX, SASS, React-Bootstrap, Responsive |![horoscope](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/12a4b90c-292a-4476-9873-92b1c7f3c9f6)|[Source Code](https://github.com/omrfrkcpr/Horoscope_Page)
 [Weather App v1](https://city-weather-app-v1.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, API |![weather-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/fb7b4775-2751-474b-82a7-8e16706bb9dc)|[Source Code](https://github.com/omrfrkcpr/Weather_App)
 [Weather App v2](https://city-weather-app-v2.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, API |![weather_app_v2](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/967b14e7-24f4-4ec5-b381-1f082d161a96)|[Source Code](https://github.com/omrfrkcpr/Weather_App_v2)
@@ -111,7 +112,6 @@ class Omrfrkcpr extends Component {
 [SASS Portfolio Page](https://sass-portfolio-page.netlify.app/)| HTML5, CSS3, SASS, Responsive |![sass-portfolio-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/21448833-13f2-494f-987b-f44c7f4d8d8c)|[Source Code](https://github.com/omrfrkcpr/Sass_Portfolio_Page)
 [Best Football Player Vote Page](https://best-football-player-vote-2024.netlify.app/)| HTML5, CSS3, Bootstrap, Responsive |![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a185050-5aa0-48ea-916b-b8abcc2e30bf)|[Source Code](https://github.com/omrfrkcpr/Best-Football-Players-2024)
 [Dental Clinic Page](https://dental-clinic-page.netlify.app/)| HTML5, CSS3, Bootstrap |![ezgif-3-529bd74e9d](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/74a85b7a-8974-453e-b553-dd8f6dd845c7)|[Source Code](https://github.com/omrfrkcpr/Dental_Clinic_Page)
-[Parallax Page](https://it-parallax-webpage.netlify.app/)| HTML5, CSS3 |![ezgif-3-7919059715](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/2156c058-1e60-4d7a-945f-f69359c58cf3)|[Source Code](https://github.com/omrfrkcpr/Parallax_Web_Page)
 
 
 </div>
