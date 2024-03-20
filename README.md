@@ -35,6 +35,7 @@ class Omrfrkcpr extends Component {
 
 
 <h1 align="center"> Hi there, I am Ömer 👋 </h1>
+<h2 align="center"> A passionate Fullstack Developer from Germany </h2>
 
 <br>
 <font color="pink"> 👨‍💻 After studying dentistry for 5 years, I made a big decision to continue my career in the field of software, which has always interested me in terms of career and work-life, now I say that I am glad it was so.  </font>
