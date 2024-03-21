@@ -33,8 +33,10 @@ class Omrfrkcpr extends Component {
 }
 ```
 
+<h1 align="center"><b>Hi there, I'm Ömer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+,+I+am+Ömer+👋;++;A+passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts;"></a>
 </h1>
 
 <br>
