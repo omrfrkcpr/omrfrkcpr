@@ -33,14 +33,9 @@ class Omrfrkcpr extends Component {
 }
 ```
 
-
-<h1 align="center"> Hi there, I am Ömer 👋 </h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+,+I+am+Ömer+👋;A+passionate+Full-Stack+Developer+from+Germany;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts"></a>
-</p>
-
-<h3 align="center"> A passionate Fullstack Developer from Germany </h3>
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+,+I+am+Ömer+👋;+A+passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts"></a>
+</h1>
 
 <br>
 <font color="pink"> 👨‍💻 After studying dentistry for 5 years, I made a big decision to continue my career in the field of software, which has always interested me in terms of career and work-life, now I say that I am glad it was so.  </font>
