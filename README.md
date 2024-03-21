@@ -34,7 +34,7 @@ class Omrfrkcpr extends Component {
 ```
 
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+,+I+am+Ömer+👋;+A+passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+,+I+am+Ömer+👋;++;A+passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts"></a>
 </h1>
 
 <br>
