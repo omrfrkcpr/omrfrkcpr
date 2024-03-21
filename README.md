@@ -40,8 +40,6 @@ class Omrfrkcpr extends Component {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
 
-![ProficientDeveloperGIF](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/0a1f0f1a-87f0-4488-9686-cb4f1bfa5741)
-
 <br>
 <font color="pink"> 👨‍💻 After studying dentistry for 5 years, I made a big decision to continue my career in the field of software, which has always interested me in terms of career and work-life, now I say that I am glad it was so.  </font>
 </br>
