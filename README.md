@@ -95,6 +95,7 @@ class Omrfrkcpr extends Component {
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[Cinemix App](https://cinemix-a176f.web.app/)| Firebase Auth, TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API |![cinemix-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/c5fa1dca-f6a8-419a-a4bd-a229d476434b)|[Source Code](https://github.com/omrfrkcpr/cinemix)
 [IWeather App](https://iweather-app.vercel.app/)| TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API, Hooks, Responsive, Local-Storage |![iweather-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/3176b93f-ab16-4f9f-ad30-d9ae44ec2b72)|[Source Code](https://github.com/omrfrkcpr/iweather)
 [Cookease (Recipe) App](https://cookease-app.netlify.app/)| ReactJS, React-Router, Styled-Components, Axios, API, Context, Hooks, Responsive, Local-Storage |![cookease-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/41d1f7ca-1cb6-4bbc-b212-44a78c412df9)|[Source Code](https://github.com/omrfrkcpr/cookease-app)
 [Employee List App](https://company-employee-list-app.netlify.app/)| ReactJS, React-Router, SCSS, React Hooks, State Management |![employee-list-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a3be3f4-c395-4ff5-99a6-1f47475c036f)|[Source Code](https://github.com/omrfrkcpr/employee-list-app)
@@ -113,9 +114,7 @@ class Omrfrkcpr extends Component {
 [Rock Paper Scissors Game](https://playgame-rock-paper-scissors.netlify.app/)| HTML5, CSS3, JavaScript |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f8129d59-0626-4b28-8e5d-e1111a050199)|[Source Code](https://github.com/omrfrkcpr/Rock_Paper_Scissors_Game)
 [iOS Calculator](https://app-ios-calculator.netlify.app/)| HTML5, CSS3, JavaScript |![ios](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/b513cc50-714d-49f8-801f-344a164b1695)|[Source Code](https://github.com/omrfrkcpr/iOS_Calculator)
 [Guessing Game](https://guessgame-num.netlify.app/)| HTML5, CSS3, JavaScript, Responsive |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/ef8235b9-c4a7-4f9e-b012-3a082f44c79d)|[Source Code](https://github.com/omrfrkcpr/Guessing_Game)
-[Music4All Web Page](https://music4-all.netlify.app/)| HTML5, CSS3, SASS, Responsive |![music4All-web-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/32e47aba-5514-4eb2-9a6d-666f8d3254c2)|[Source Code](https://github.com/omrfrkcpr/Music_4_All)
 [SASS Portfolio Page](https://sass-portfolio-page.netlify.app/)| HTML5, CSS3, SASS, Responsive |![sass-portfolio-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/21448833-13f2-494f-987b-f44c7f4d8d8c)|[Source Code](https://github.com/omrfrkcpr/Sass_Portfolio_Page)
-[Best Football Player Vote Page](https://best-football-player-vote-2024.netlify.app/)| HTML5, CSS3, Bootstrap, Responsive |![ezgif-5-27d358e96c](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a185050-5aa0-48ea-916b-b8abcc2e30bf)|[Source Code](https://github.com/omrfrkcpr/Best-Football-Players-2024)
 [Dental Clinic Page](https://dental-clinic-page.netlify.app/)| HTML5, CSS3, Bootstrap |![ezgif-3-529bd74e9d](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/74a85b7a-8974-453e-b553-dd8f6dd845c7)|[Source Code](https://github.com/omrfrkcpr/Dental_Clinic_Page)
 
 
