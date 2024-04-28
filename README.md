@@ -17,13 +17,11 @@
 
 - 📄 I'm also looking for a **job as a full stack developer** where I can bring my passion and excitement.
 
-
+<br></br><br></br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=50&lines=A+Passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts;"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
-
-
 
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="350"/>
