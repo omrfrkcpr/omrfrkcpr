@@ -24,6 +24,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
 
+### My Blogs
+- [Cracking the Code: How Algorithmic Thinking Can Turn Bugs into Features](https://medium.com/@omrfrkcpr/cracking-the-code-how-algorithmic-thinking-can-turn-bugs-into-features-c433cf2b3177)
+- [Version Control Systems (VCS): The Best Way To Manage Development Processes](https://medium.com/@omrfrkcpr/version-control-systems-vcs-the-best-way-to-manage-development-processes-57ec96163229)
+- [Beyond the Syntax: A Deep Dive into Software Tools and Technologies](https://medium.com/@omrfrkcpr/beyond-the-syntax-a-deep-dive-into-software-tools-and-technologies-f4332641199f)
+- [Revolutionizing Software Development: Understanding Agile Methodology](https://medium.com/@omrfrkcpr/revolutionizing-software-development-understanding-agile-methodology-a55cc570a02b)
 
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="350"/>
 
