@@ -1,54 +1,30 @@
 <img src="https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f0141dd6-d5e7-4a9b-9299-20611ccef1e7" alt="" align="center"/>
 <br></br>
 
-
-```javascript
-class Omrfrkcpr extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      name: "Ömer Faruk Çapur",
-      location: "Göttingen, Germany",
-      occupation: "Full Stack Developer",
-      mainAbilities: [
-        "HTML5",
-        "CSS3(Bootstrap/SASS)",
-        "JS(ES6)",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Git/GitHub/GitLab",
-      ],
-    };
-  }
-
-  message = () => {
-    const { name, occupation, mainAbilities } = this.state;
-    return `I'm ${name}. As a ${occupation}, I mainly focus on ${mainAbilities.join(", ")}.`;
-  };
-
-  render() {
-    return <div>{this.message()}</div>;
-  }
-}
-```
-
 <h1 align="center"><b>Hi there, I'm Ömer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+- 👨‍💻 My Portfolio ➡️ [PORTFOLIO](https://omrfrkcpr.vercel.app/)
+
+- ⚒️ Currently working on [IStock](https://github.com/omrfrkcpr/istock) Project, which will be a stock management application.
+  
+- 🌱 I’m currently learning **NextJS and Redux**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@omrfrkcpr) 
+
+- 💬 Ask me anything about **Web Development, React, JavaScript, UI Tools and Frameworks**
+
+- 📫 How to reach me **omerrfarukcapur@gmail.com**
+
+- 📄 I'm also looking for a **job as a full stack developer** where I can bring my passion and excitement.
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=50&lines=A+Passionate+Full-Stack+Developer+from+Germany;Highly+motivated+Coder;Reliable+Team+Member;Active+and+Quick+Learner;Love+to+learn+new+technologies..&hearts;"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
 
-<br>
-<font color="pink"> 👨‍💻 After studying dentistry for 5 years, I made a big decision to continue my career in the field of software, which has always interested me in terms of career and work-life, now I say that I am glad it was so.  </font>
-</br>
-<br>
-<font color="pink"> :fire: My interest in software development started in 2020. However, I have been active in this field since 2023.</font>
-</br>
-<br>
-<font color="pink"> :rocket: Currently, I am focusing on React and Redux</font>
-</br>
+
+
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=omrfrkcpr&show_icons=true&theme=tokyonight" alt="" align="right" width="350"/>
 
