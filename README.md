@@ -14,7 +14,7 @@
 
 - 💬 Ask me anything about **Web Development, React, JavaScript, UI Tools and Frameworks**
 
-- 📫 How to reach me **omerrfarukcapur@gmail.com**
+- 📫 Contact me by Email **omerrfarukcapur@gmail.com**
 
 - 📄 I'm also looking for a **job as a full stack developer** where I can bring my passion and excitement.
 
