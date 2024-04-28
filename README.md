@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi there, I'm Ömer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-- 👨‍💻 My Portfolio ➡️ [PORTFOLIO](https://omrfrkcpr.vercel.app/) (**Tech:** NextJS, TypeScript, TailwindCSS)
+- 👨‍💻 My Portfolio ➡️ [PORTFOLIO](https://omrfrkcpr.vercel.app/en) (**Tech:** NextJS, TypeScript, TailwindCSS)
 
 - ⚒️ Currently working on [IStock](https://github.com/omrfrkcpr/istock) Project, which will be a stock management application.
   
