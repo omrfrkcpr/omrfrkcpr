@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio ➡️ [Here](https://omrfrkcpr.vercel.app/en) (**Tech:** NextJS, TypeScript, TailwindCSS)
 
-- ⚒️ Currently working on [IStock](https://github.com/omrfrkcpr/istock) Project, which will be a stock management application.
+- ⚒️ Currently working on [Bloggio](https://github.com/omrfrkcpr/bloggio).
   
 - 🌱 I’m currently learning **NextJS and Redux**
 
