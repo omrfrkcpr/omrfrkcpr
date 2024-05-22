@@ -25,6 +25,7 @@
 </p>
 
 ### My Blogs 📜
+- [Building a Multilingual React App with i18n](https://medium.com/@omrfrkcpr/building-a-multilingual-react-app-with-i18n-e4f0d2ccdaa7) 🌐
 - [Cracking the Code: How Algorithmic Thinking Can Turn Bugs into Features](https://medium.com/@omrfrkcpr/cracking-the-code-how-algorithmic-thinking-can-turn-bugs-into-features-c433cf2b3177) 🗝️
 - [Version Control Systems (VCS): The Best Way To Manage Development Processes](https://medium.com/@omrfrkcpr/version-control-systems-vcs-the-best-way-to-manage-development-processes-57ec96163229) 💪
 - [Beyond the Syntax: A Deep Dive into Software Tools and Technologies](https://medium.com/@omrfrkcpr/beyond-the-syntax-a-deep-dive-into-software-tools-and-technologies-f4332641199f) ⛏️
