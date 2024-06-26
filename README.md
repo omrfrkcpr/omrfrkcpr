@@ -77,6 +77,7 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
+[Novelit](https://novelit.vercel.app/)| React, TypeScript, NodeJS, ExpressJS, SQLite (Sequelize), ContextAPI, TailwindCSS, Sweat-Alert, React-Router, Axios (Instance) |![novelit](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/4c618a85-90eb-4658-aafe-d22f52829bfd)|[Source Code](https://github.com/omrfrkcpr/novelit)
 [IStock](https://istock-app.vercel.app/)| React, Redux, Redux Toolkit, Material UI, TailwindCSS, Toastify, React-Router, Axios (Instance), Formik & Yup, Redux Persist |![istock-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/982d70fd-075b-45dd-9bf4-0f3022736dc1)|[Source Code](https://github.com/omrfrkcpr/istock)
 [Cinemix (Movie) App](https://cinemix-app.vercel.app/)| Firebase Auth, TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API |![cinemix-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/c5fa1dca-f6a8-419a-a4bd-a229d476434b)|[Source Code](https://github.com/omrfrkcpr/cinemix)
 [IWeather App](https://iweather-app.vercel.app/)| TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API, Hooks, Responsive, Local-Storage |![iweather-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/819778ce-1c9a-46d2-bf4a-af251d546c27)|[Source Code](https://github.com/omrfrkcpr/iweather)
