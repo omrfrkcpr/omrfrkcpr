@@ -25,6 +25,7 @@
 </p>
 
 ### My Blogs 📜
+- [React Performance Boost: Make Your App Fast and Furious](https://medium.com/@omrfrkcpr/react-performance-boost-make-your-app-fast-and-furious-dca7cf9ab590) 🔥
 - [Building a Multilingual React App with i18n](https://medium.com/@omrfrkcpr/building-a-multilingual-react-app-with-i18n-e4f0d2ccdaa7) 🌐
 - [Cracking the Code: How Algorithmic Thinking Can Turn Bugs into Features](https://medium.com/@omrfrkcpr/cracking-the-code-how-algorithmic-thinking-can-turn-bugs-into-features-c433cf2b3177) 🗝️
 - [Version Control Systems (VCS): The Best Way To Manage Development Processes](https://medium.com/@omrfrkcpr/version-control-systems-vcs-the-best-way-to-manage-development-processes-57ec96163229) 💪
@@ -82,8 +83,6 @@
 [Cinemix (Movie) App](https://cinemix-app.vercel.app/)| Firebase Auth, TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API |![cinemix-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/c5fa1dca-f6a8-419a-a4bd-a229d476434b)|[Source Code](https://github.com/omrfrkcpr/cinemix)
 [IWeather App](https://iweather-app.vercel.app/)| TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API, Hooks, Responsive, Local-Storage |![iweather-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/819778ce-1c9a-46d2-bf4a-af251d546c27)|[Source Code](https://github.com/omrfrkcpr/iweather)
 [Cookease (Recipe) App](https://cookease-app.netlify.app/)| ReactJS, React-Router, Styled-Components, Axios, API, Context, Hooks, Responsive, Local-Storage |![cookease-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/41d1f7ca-1cb6-4bbc-b212-44a78c412df9)|[Source Code](https://github.com/omrfrkcpr/cookease-app)
-[Employee List App](https://company-employee-list-app.netlify.app/)| ReactJS, React-Router, SCSS, React Hooks, State Management |![employee-list-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/7a3be3f4-c395-4ff5-99a6-1f47475c036f)|[Source Code](https://github.com/omrfrkcpr/employee-list-app)
-[Shopping Cart App](https://reactjs-shopping-cart-app.netlify.app/)| ReactJS, React-Router, Bootstrap, React Hooks, MockAPI, Axios |![react-shopping-cart](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/222048bc-b781-4f70-91cf-9d9d2beda89e)|[Source Code](https://github.com/omrfrkcpr/react-shopping-cart)
 [Get Random User](https://get-random-user-info.netlify.app/)| ReactJS, React-Bootstrap, React Hooks, API, Axios |![get-random-user](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/ffe09c60-d3ed-4d75-8bf0-a0e91f033af1)|[Source Code](https://github.com/omrfrkcpr/Get_Random_User__App)
 [Hospital Appointment App](https://medical-center-appointments.netlify.app/)| ReactJS, React-Bootstrap, Responsive, Local-Storage, Single-Page Application (SPA) |![appointment-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/4381a703-306b-42f4-acca-7bec9ba78fa5)|[Source Code](https://github.com/omrfrkcpr/Appointment_App)
 [ToDo List --v2](https://my-reactjs-todo-app.netlify.app/)| ReactJS, React-Bootstrap, Responsive, Local-Storage, CRUD Application |![todo-react-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/848a0664-4309-48c4-88bc-0b5e802e9cd8)|[Source Code](https://github.com/omrfrkcpr/ToDo_App_w-React)
@@ -95,13 +94,7 @@
 [Bey E-Commerce Website](https://bey-e-commerce.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/603f6426-9f31-4d15-a05d-53b8968f4d79)|[Source Code](https://github.com/omrfrkcpr/Bey_E-Commerce_Website)
 [GS-Store Checkout Page](https://gs-store-checkout-page.netlify.app/)| HTML5, CSS3, Bootstrap, JavaScript, Responsive |![gs-store_checkout_page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/94f0fc21-eab4-4b9d-85cf-58db5e84e63e)|[Source Code](https://github.com/omrfrkcpr/GS-Store_Checkout_Page)
 [ToDo List --v1](https://my-todo-list-page.netlify.app/)| HTML5, CSS3, JavaScript, Local Storage, Responsive |![todo-project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/1ba18600-f087-406f-973f-95ffc8e71634)|[Source Code](https://github.com/omrfrkcpr/ToDo_App)
-[Rock Paper Scissors Game](https://playgame-rock-paper-scissors.netlify.app/)| HTML5, CSS3, JavaScript |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/f8129d59-0626-4b28-8e5d-e1111a050199)|[Source Code](https://github.com/omrfrkcpr/Rock_Paper_Scissors_Game)
-[iOS Calculator](https://app-ios-calculator.netlify.app/)| HTML5, CSS3, JavaScript |![ios](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/b513cc50-714d-49f8-801f-344a164b1695)|[Source Code](https://github.com/omrfrkcpr/iOS_Calculator)
-[Guessing Game](https://guessgame-num.netlify.app/)| HTML5, CSS3, JavaScript, Responsive |![project](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/ef8235b9-c4a7-4f9e-b012-3a082f44c79d)|[Source Code](https://github.com/omrfrkcpr/Guessing_Game)
 [SASS Portfolio Page](https://sass-portfolio-page.netlify.app/)| HTML5, CSS3, SASS, Responsive |![sass-portfolio-page](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/21448833-13f2-494f-987b-f44c7f4d8d8c)|[Source Code](https://github.com/omrfrkcpr/Sass_Portfolio_Page)
-[Dental Clinic Page](https://dental-clinic-page.netlify.app/)| HTML5, CSS3, Bootstrap |![ezgif-3-529bd74e9d](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/74a85b7a-8974-453e-b553-dd8f6dd845c7)|[Source Code](https://github.com/omrfrkcpr/Dental_Clinic_Page)
-
-
 </div>
 </br>
 <br>
