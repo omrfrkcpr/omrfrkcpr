@@ -78,10 +78,8 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
-[Bloggio](https://bloggio.de/)| React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweat-Alert, Docker, AWS-S3 |![bloggio](https://github.com/user-attachments/assets/b4f1ae78-28d4-43af-8f5e-b14027a7b6fe)
-|[Source Code](https://github.com/omrfrkcpr/bloggio)
-[Habithub](https://habithub.de/)| React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweat-Alert, Docker, AWS-S3 |![habithub](https://github.com/user-attachments/assets/b5209356-b778-483d-8874-3e8bb7e08215)
-|[Source Code](https://github.com/omrfrkcpr/habithub)
+[Bloggio](https://bloggio.de/)| React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweat-Alert, Docker, AWS-S3 |![bloggio](https://github.com/user-attachments/assets/b4f1ae78-28d4-43af-8f5e-b14027a7b6fe)|[Source Code](https://github.com/omrfrkcpr/bloggio)
+[Habithub](https://habithub.de/)| React, TypeScript, NodeJS, ExpressJS, MongoDB (Mongoose), Redux, TailwindCSS, Sweat-Alert, Docker, AWS-S3 |![habithub](https://github.com/user-attachments/assets/b5209356-b778-483d-8874-3e8bb7e08215)|[Source Code](https://github.com/omrfrkcpr/habithub)
 [Novelit](https://novelit.vercel.app/)| React, TypeScript, NodeJS, ExpressJS, SQLite (Sequelize), ContextAPI, TailwindCSS, Sweat-Alert, React-Router, Axios |![novelit](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/4c618a85-90eb-4658-aafe-d22f52829bfd)|[Source Code](https://github.com/omrfrkcpr/novelit)
 [IStock](https://istock-app.vercel.app/)| React, Redux, Redux Toolkit, Material UI, TailwindCSS, Toastify, React-Router, Axios (Instance), Formik & Yup, Redux Persist |![istock-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/982d70fd-075b-45dd-9bf4-0f3022736dc1)|[Source Code](https://github.com/omrfrkcpr/istock)
 [Cinemix (Movie) App](https://cinemix-app.vercel.app/)| Firebase Auth, TailwindCSS, ReactJS, Toastify, React-Router, Axios, Context API |![cinemix-app](https://github.com/omrfrkcpr/omrfrkcpr/assets/77440899/c5fa1dca-f6a8-419a-a4bd-a229d476434b)|[Source Code](https://github.com/omrfrkcpr/cinemix)
