@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio ➡️ [Here](https://omrfrkcpr.com/en) (**Tech:** NextJS, TypeScript, TailwindCSS)
 
-- ⚒️ Currently project: [Volunteerium](https://github.com/volunteerium-de)
+- ⚒️ Latest project: [Volunteerium](https://github.com/volunteerium-de)
   
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
