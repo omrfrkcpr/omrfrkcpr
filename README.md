@@ -8,7 +8,7 @@
 
 - ⚒️ Latest project: [Volunteerium](https://github.com/volunteerium-de)
   
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **React Native and GoLang**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@omrfrkcpr) 
 
